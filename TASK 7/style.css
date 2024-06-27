@@ -1,0 +1,123 @@
+html {
+  font-size: 15px;
+  font-family: "Oswald", sans-serif;
+  font-style: normal;
+}
+h1 {
+  font-size: 60px;
+  text-align: center;
+}
+p,
+li {
+  font-size: 20px;
+  line-height: 2;
+  letter-spacing: 1px;
+}
+html {
+  background-color: aqua;
+}
+body {
+  width: 1000px;
+  margin: 0 auto;
+  background-color: blueviolet;
+  padding: 0 20px 20px 20px;
+  border: 5px solid black;
+}
+h1 {
+  margin: 0;
+  padding: 20px 0;
+  color:chartreuse;
+  text-shadow: 5px 5px 2px black;
+} 
+img {
+  display: block;
+  margin: 0 auto;
+}
+table {
+  width: 50%;
+  margin: 20px auto;
+  border-collapse: collapse;
+}
+table, th, td {
+  border: 1px solid black;
+  background-color: #f2f2f2;
+}
+th, td {
+  padding: 10px;
+  text-align: center;
+}
+th {
+  background-color: #f2f2f2;
+}
+#myButton {
+  padding: 10px;
+  margin-left: 0 auto;
+  
+}
+#Button2 {
+  padding: 10px;
+  margin-left: 0 auto;
+  
+}
+#Button3 {
+  padding: 10px;
+  margin-left: 0 auto;
+}
+a {
+  color:rgb(236, 49, 49);
+}
+#generate {
+  padding: 10px;
+  margin-left: 0 auto;
+}
+article {
+  padding: 10px;
+  margin: 10px;
+  background: rgb(0, 255, 162);
+  border: 3px solid black;
+}
+h6 {
+  font-size: 20px;
+  margin: 20px;
+  text-align: center;
+}
+h2, h3, h4, h5 {
+  font-size: 35px;
+  margin: 20px;
+}
+section {
+  display: flex;
+  flex-direction: row;
+  flex: 200px;
+}
+div {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  gap: 20px;
+  padding: 10px 20px 30px 40px  ;
+}
+.fact-text {
+  font-size: 35px; 
+  color: greenyellow;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
